@@ -162,9 +162,9 @@ include_content = true
 katex.enabled = false
 katex.auto_render = false
 
-chart.enabled = false
-mermaid.enabled = false
-galleria.enabled = false
+chart.enabled = true
+mermaid.enabled = true
+galleria.enabled = true
 
 navbar_items = [
     { code = "en", nav_items = [
