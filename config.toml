@@ -159,12 +159,12 @@ include_content = true
 # author value will be available using {{ config.extra.author }} in templates
 #
 [extra]
-katex.enabled = true
-katex.auto_render = true
+katex.enabled = false
+katex.auto_render = false
 
-chart.enabled = true
-mermaid.enabled = true
-galleria.enabled = true
+chart.enabled = false
+mermaid.enabled = false
+galleria.enabled = false
 
 navbar_items = [
     { code = "en", nav_items = [
@@ -177,14 +177,14 @@ navbar_items = [
 ]
 
 [extra.favicon]
-favicon_16x16 = "/icons/favicon-16x16.png"
-favicon_32x32 = "/icons/favicon-32x32.png"
-apple_touch_icon = "/icons/apple-touch-icon.png"
-safari_pinned_tab = "/icons/safari-pinned-tab.svg"
-webmanifest = "/icons/site.webmanifest"
+favicon_16x16 = "/images/favicon-32x32.svg"
+favicon_32x32 = "/images/favicon-32x32.svg"
+apple_touch_icon = "/images/favicon-32x32.svg"
+safari_pinned_tab = "/images/favicon-32x32.svg"
+webmanifest = "/images/favicon-32x32.svg"
 
 [extra.author]
-name = "peaksight"
+name = "PeakSight Information Security"
 avatar = "/images/logo4.png"
 
 [extra.social]
@@ -209,7 +209,7 @@ discord = "peaks1ght"
 #google = "G-JPHGX4YXVE"
 
 [extra.commenting]
-disqus = "deepthought-theme"
+# disqus = "deepthought-theme"
 
 [extra.mapbox]
 enabled = false
