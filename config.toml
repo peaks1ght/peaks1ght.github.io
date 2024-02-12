@@ -34,7 +34,7 @@ generate_feed = true
 # The filename to use for the feed. Used as the template filename, too.
 # Defaults to "atom.xml", which has a built-in template that renders an Atom 1.0 feed.
 # There is also a built-in template "rss.xml" that renders an RSS 2.0 feed.
-feed_filename = "rss.xml"
+# feed_filename = "rss.xml"
 
 # The number of articles to include in the feed. All items are included if
 # this limit is not set (the default).
@@ -62,12 +62,12 @@ taxonomies = [
 
 # When set to "true", a search index is built from the pages and section
 # content for `default_language`.
-build_search_index = true
+# build_search_index = true
 
 # Configuration of the Markdown rendering
 [markdown]
 # When set to "true", all code blocks are highlighted.
-highlight_code = true
+# highlight_code = true
 
 # A list of directories used to search for additional `.sublime-syntax` files.
 extra_syntaxes = []
@@ -78,7 +78,7 @@ highlight_theme = "one-dark"
 
 # When set to "true", emoji aliases translated to their corresponding
 # Unicode emoji equivalent in the rendered Markdown files. (e.g.: :smile: => 😄)
-render_emoji = true
+# render_emoji = true
 
 # Whether external links are to be opened in a new tab
 # If this is true, a `rel="noopener"` will always automatically be added for security reasons
