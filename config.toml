@@ -188,18 +188,22 @@ name = "peaksight"
 avatar = "/images/logo4.png"
 
 [extra.social]
-facebook = "RatanShreshtha"
+#facebook = ""
 github = "peaks1ght"
-linkedin = "ratanshreshtha"
-email = "deepthought@gmail.com"
+pinterest = "peaks1ght"
+linkedin = "peaks1ght"
+email = "peaksight@outlook.com"
 twitter = "peaks1ght"
-reddit = "RatanShreshtha"
-instagram = "RatanShreshtha"
-mastodon_username = "@RatanShreshtha"
+reddit = "peaks1ght"
+instagram = "peaks1ght"
+threads = "peaks1ght"
+mastodon_username = "peaks1ght"
 mastodon_server = "mastodon.social"
-discord = "RatanShreshtha"
-youtube = "RatanShreshtha"
-tumblr = "RatanShreshtha"
+discord = "peaks1ght"
+#youtube = "RatanShreshtha"
+
+
+
 
 #[extra.analytics]
 #google = "G-JPHGX4YXVE"
