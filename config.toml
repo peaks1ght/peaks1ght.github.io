@@ -1,9 +1,9 @@
 # The base URL of the site; the only required configuration variable.
-base_url = "https://peaks1ght.github.io"
+base_url = "https://whitecapsec.github.io"
 
 # The site title and description; used in feeds by default.
-title = "PeakSight Information Security"
-description = "PeakSight Information Security is based out of India and provides penetration testing to businesses"
+title = "whitecapsec"
+description = "whitecapsec is based out of India and provides penetration testing to businesses"
 
 # The default language; used in feeds.
 default_language = "en"
@@ -169,37 +169,37 @@ galleria.enabled = true
 navbar_items = [
     { code = "en", nav_items = [
         { url = "$BASE_URL/", name = "Home" },
-        { url = "$BASE_URL/services", name = "Services" },
-        { url = "$BASE_URL/resources", name = "Resources" },
+        # { url = "$BASE_URL/services", name = "Services" },
+        # { url = "$BASE_URL/resources", name = "Resources" },
         { url = "$BASE_URL/about", name = "About" },
         
     ] },
 ]
 
 [extra.favicon]
-favicon_16x16 = "/images/favicon-32x32.svg"
-favicon_32x32 = "/images/favicon-32x32.svg"
-apple_touch_icon = "/images/favicon-32x32.svg"
-safari_pinned_tab = "/images/favicon-32x32.svg"
-webmanifest = "/images/favicon-32x32.svg"
+favicon_16x16 = "/images/logo5.png"
+favicon_32x32 = "/images/logo5.png"
+apple_touch_icon = "/images/logo5.png"
+safari_pinned_tab = "/images/logo5.png"
+webmanifest = "/images/logo5.png"
 
 [extra.author]
-name = "PeakSight Information Security"
-avatar = "/images/logo4.png"
+name = "whitecapsec"
+avatar = "/images/logo5.png"
 
 [extra.social]
 #facebook = ""
-github = "peaks1ght"
-pinterest = "peaks1ght"
-linkedin = "peaks1ght"
+github = "whitecapsec"
+pinterest = "whitecapsec"
+linkedin = "whitecapsec"
 email = "peaksight@outlook.com"
-twitter = "peaks1ght"
-reddit = "peaks1ght"
-instagram = "peaks1ght"
-threads = "peaks1ght"
-mastodon_username = "peaks1ght"
+twitter = "whitecapsec"
+reddit = "whitecapsec"
+instagram = "whitecapsec"
+threads = "whitecapsec"
+mastodon_username = "whitecapsec"
 mastodon_server = "mastodon.social"
-discord = "peaks1ght"
+discord = "whitecapsec"
 #youtube = "RatanShreshtha"
 
 
