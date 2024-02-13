@@ -1,5 +1,5 @@
 # The base URL of the site; the only required configuration variable.
-base_url = "https://whitecapsec.github.io"
+base_url = "https://whitecapsec.com"
 
 # The site title and description; used in feeds by default.
 title = "whitecapsec"
@@ -192,7 +192,7 @@ avatar = "/images/logo5.png"
 github = "whitecapsec"
 pinterest = "whitecapsec"
 linkedin = "whitecapsec"
-email = "peaksight@outlook.com"
+email = "whitecapsec@outlook.com"
 twitter = "whitecapsec"
 reddit = "whitecapsec"
 instagram = "whitecapsec"
