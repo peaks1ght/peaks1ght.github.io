@@ -29,7 +29,7 @@ minify_html = false
 ignored_content = []
 
 # When set to "true", a feed is automatically generated.
-generate_feed = true
+# generate_feed = true
 
 # The filename to use for the feed. Used as the template filename, too.
 # Defaults to "atom.xml", which has a built-in template that renders an Atom 1.0 feed.
@@ -190,16 +190,16 @@ avatar = "/images/logo5.png"
 [extra.social]
 #facebook = ""
 github = "whitecapsec"
-pinterest = "whitecapsec"
-linkedin = "whitecapsec"
-email = "whitecapsec@outlook.com"
+#pinterest = "whitecapsec"
+#linkedin = "whitecapsec"
+email = "info@whitecapsec.com"
 twitter = "whitecapsec"
-reddit = "whitecapsec"
-instagram = "whitecapsec"
-threads = "whitecapsec"
-mastodon_username = "whitecapsec"
-mastodon_server = "mastodon.social"
-discord = "whitecapsec"
+#reddit = "whitecapsec"
+#instagram = "whitecapsec"
+#threads = "whitecapsec"
+#mastodon_username = "whitecapsec"
+#mastodon_server = "mastodon.social"
+#discord = "whitecapsec"
 #youtube = "RatanShreshtha"
 
 
