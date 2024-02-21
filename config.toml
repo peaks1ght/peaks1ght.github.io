@@ -55,10 +55,10 @@ hard_link_static = false
 #       {name = "authors"}, # Basic definition: no feed or pagination
 #     ]
 #
-taxonomies = [
-    { name = "categories", feed = true, paginate_by = 10 },
-    { name = "tags", feed = true, paginate_by = 10 },
-]
+# taxonomies = [
+#     { name = "categories", feed = true, paginate_by = 10 },
+#     { name = "tags", feed = true, paginate_by = 10 },
+# ]
 
 # When set to "true", a search index is built from the pages and section
 # content for `default_language`.
@@ -115,13 +115,13 @@ anchors = "on"
 
 [search]
 # Whether to include the title of the page/section in the index
-include_title = true
+include_title = false
 # Whether to include the description of the page/section in the index
 include_description = false
 # Whether to include the path of the page/section in the index
 include_path = false
 # Whether to include the rendered content of the page/section in the index
-include_content = true
+include_content = false
 # At which character to truncate the content to. Useful if you have a lot of pages and the index would
 # become too big to load on the site. Defaults to not being set.
 # truncate_content_length = 100
@@ -166,15 +166,16 @@ chart.enabled = true
 mermaid.enabled = true
 galleria.enabled = true
 
-navbar_items = [
-    { code = "en", nav_items = [
-        { url = "$BASE_URL/", name = "Home" },
-        # { url = "$BASE_URL/services", name = "Services" },
-        # { url = "$BASE_URL/resources", name = "Resources" },
-        { url = "$BASE_URL/about", name = "About" },
-        
-    ] },
-]
+navbar_items = []
+# navbar_items = [
+#     { code = "en", nav_items = [
+#         { url = "$BASE_URL/", name = "" },
+#         # { url = "$BASE_URL/services", name = "Services" },
+#         # { url = "$BASE_URL/resources", name = "Resources" },
+#         # { url = "$BASE_URL/about", name = "About" },
+#         
+#     ] },
+# ]
 
 [extra.favicon]
 favicon_16x16 = "/images/logo5.png"
