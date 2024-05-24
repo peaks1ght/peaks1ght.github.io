@@ -1,14 +1,11 @@
 +++
-#title = "PeakSight"
-#description = "Information Security "
+#title = "Your Digital Life is Worth Protecting"
+#description = "Your Digital Life is Worth Protecting"
 +++
 
-
-At whitecapsec we provide information security solutions and services with insights into threat intelligence and industry standards.
+In an era of rapid technological advancements, it's crucial to stay informed about the latest digital threats and how to counter them.
 <br>
-We are focused on providing high-quality penetration testing, malicious adversary simulation, threat intelligence, cybersecurity strategy & compliance assessment services.
+Our website is dedicated to educating and empowering individuals to take control of their online security. Let's work together to create a safer, more secure digital world!
 <br>
-<br>
-Together, let's fortify your defenses against the rapidly evolving landscape of cyberspace.<br>
 <br>
 Get in touch with us at **info@whitecapsec.com**
