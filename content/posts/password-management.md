@@ -6,6 +6,10 @@ updated = 2024-05-25
 draft = false
 slug = "password-management"
 in_search_index = true
+
+[extra]
+toc = true
+comments = true
 +++
 
 <br>
@@ -17,12 +21,12 @@ In today's digital age, passwords are the keys to our online identities.
 
 To master password management, you need to understand the risks and the solutions. Here are the essential pieces to get you started:
 
-## The Risks:
+## The Risks
 - **The Domino Effect**: Using the same password everywhere can lead to a chain reaction of compromised accounts.
 - **The Weak Link**: Easy-to-guess passwords can be cracked in seconds, giving hackers access to your sensitive information.
 - **The Phishing Trap**: Falling prey to phishing scams can result in stolen login credentials, putting your entire online presence at risk.
 
-## The Solutions:
+## The Solutions
 - **The Unique Code**: Create a unique password for each account to prevent password reuse. Steer clear of commonly used passwords, such as "qwerty" or "password123."
 - **The Password Fortress**: Aim for passwords that are at least 12 characters long and include a mix of uppercase and lowercase letters, numbers, and special characters. This makes them difficult to guess.
 - **The Password Manager**: Consider using a password manager to generate and store complex passwords. So that you don't have to remember multiple passwords. Here are some popular options: [Bitwarden](https://bitwarden.com/products/personal/), [1Password](https://1password.com/security/), [LastPass](https://www.lastpass.com/why-lastpass), [KeePass](https://keepass.info/).
@@ -38,7 +42,7 @@ Take the password challenge today. Review your passwords, identify weaknesses, a
 ## The Reward
 By mastering password management, you'll enjoy a more secure online experience, protecting your identity, finances, and personal data from cyber threats.
 
-### Additional Tips
+## Additional Tips
 - Use a Password Generator: Many password managers come with a useful password generator. A password generator will help you instantly generate strong and comples passwords.
 - Avoid Writing Down Passwords: Refrain from writing down your passwords, as this can lead to physical security breaches.
 - Be Cautious with Public Wi-Fi: Avoid accessing sensitive information or logging into accounts while using public Wi-Fi, as these networks may be unsecured.
